@@ -13,13 +13,12 @@ then
 pip install pytube
 <br><br>
 !! Note this program is expected that you already have "ffmpeg" install on your device if not you can install "ffmpeg" by heading to https://ffmpeg.org/download.html and download the latest version of ffmpeg
-/
-Create a Folder in this format
-main Folder
-      env(Python Enviroment, Folder)
-      Project(Folder)
-      Readme.md
-      
+<br>
+Once everything is install, Create a Folder in this format
+<br><br>
+![image](https://github.com/ArtyTBcat/Youtube-Download/assets/77570219/40d55273-61ad-4417-a49c-511f8eb1d447)
+<br>
+THE DOWNLOADED FOLDER SHOULD CREATE automatically or MANUAL CREATE IT
 
 <br><br>
 Using the program
