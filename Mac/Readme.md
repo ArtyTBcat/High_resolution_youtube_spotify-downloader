@@ -3,7 +3,7 @@ Install virtualenv and activate it in your terminal
 then
 pip install pytube
 
-!!Note this program is expected that you already have "ffmpeg" install if not you can install "ffmpeg" in homebrew or head to https://ffmpeg.org/download.html
+!! Note this program is expected that you already have "ffmpeg" install on your device if not you can install "ffmpeg" in homebrew or head to https://ffmpeg.org/download.html
 Homebrew : brew install ffmpeg
 
 /
