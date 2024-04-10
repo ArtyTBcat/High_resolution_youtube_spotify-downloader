@@ -1,4 +1,4 @@
-High resolution youtube video python downloader
+High Resolution Youtube video Python Downloader
 --------
 <br>
 Download videos that actually contain audio at the Highest resolution and process audio and Images with ffmpeg
