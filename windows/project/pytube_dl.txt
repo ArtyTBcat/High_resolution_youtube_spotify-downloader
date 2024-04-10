@@ -1,0 +1,17 @@
+means of downloading
+first activate as usual
+
+---- Standard procedure-----
+then edit the url in the python file
+To edit in terminal use the command : nano {file name} for every type of file
+
+
+---With how to make the python file that is running---
+Procedure with-in the python file
+
+//get certificate
+import ssl
+ssl._create_default_https_context = ssl._create_stdlib_context
+//pytube
+from pytube import YouTube
+YouTube('https://youtu.be/2lAe1cqCOXo').streams.first().download()
